@@ -14,6 +14,7 @@ Aqui documento minha jornada de aprendizado em **Segurança da Informação**, c
 
 ## 📅 Diário de Aprendizado  
 
+### 📌 Semana 1
 - [Segurança Cibernética](./conceitos/seguranca_cibernetica.md)
 - [Identidade Online](./conceitos/identidade_online.md)
 - [Cubo de McCumber](./conceitos/cubo_mccumber.md)
