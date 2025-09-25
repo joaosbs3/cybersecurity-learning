@@ -18,8 +18,8 @@ Aqui documento minha jornada de aprendizado em **Segurança da Informação**, c
 - [Segurança Cibernética](./conceitos/seguranca_cibernetica.md)
 - [Identidade Online](./conceitos/identidade_online.md)
 - [Cubo de McCumber](./conceitos/cubo_mccumber.md)
-- [Vulnerabilidades de Software](./conceitos/vulnerabilidades_software.md)
 - [Exploits](./ataques/exploits.md)
+- [Vulnerabilidades de Software](./conceitos/vulnerabilidades_software.md)
 - [Tipos de Malware](./ataques/malware.md)
 - [DoS / DDoS](./ataques/dos.md)
 ---
