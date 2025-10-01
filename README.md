@@ -10,18 +10,12 @@ Aqui documento minha jornada de aprendizado em **Segurança da Informação**, c
 - 🛡️ Junior Cybersecurity Analyst (Cisco) – *em andamento*  
 - 🔍 CyberOps Associate (Cisco) – *próximo passo*  
 
----
+--- 
 
 ## 📅 Diário de Aprendizado  
 
-### 📌 Semana 1
-- [Segurança Cibernética](./conceitos/seguranca_cibernetica.md)
-- [Identidade Online](./conceitos/identidade_online.md)
-- [Cubo de McCumber](./conceitos/cubo_mccumber.md)
-- [Exploits](./ataques/exploits.md)
-- [Vulnerabilidades de Software](./conceitos/vulnerabilidades_software.md)
-- [Tipos de Malware](./ataques/malware.md)
-- [DoS / DDoS](./ataques/dos.md)
+- [Curso: Introdução à Cibersegurança](./introducao_ciberseguranca/)
+
 ---
 
 ## 🎯 Objetivo  
